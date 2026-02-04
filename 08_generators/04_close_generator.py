@@ -23,4 +23,4 @@ def coffee_stall():
 
 stall = coffee_stall()
 print(next(stall))
-stall.close()
+stall.close() #memeory clean up
